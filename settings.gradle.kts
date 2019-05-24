@@ -1,3 +1,4 @@
 include(
-	":game-sample"
+	":game-sample:game",
+	":game-sample:game-android"
 )
